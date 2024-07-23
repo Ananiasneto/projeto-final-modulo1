@@ -1,0 +1,152 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: #F5F6F7;
+    width: 1250px;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center; 
+    margin-top: 22px;
+    margin-bottom: 19px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: "Encode Sans",sans-serif;
+    font-size: 19px;
+    font-weight: 700;
+    height: 80px;
+}
+.todasnoticias{
+    display: flex;
+    margin-top: 30px;
+ }
+
+.destacado{
+    font-family: "Encode Sans",sans-serif;
+    color: #C4160C;
+    font-weight: 700;
+    font-size: 52px;
+}
+.textao p{
+    font-family: "Encode Sans",sans-serif;
+    color: #303134;
+    font-size: 18px;
+    margin-top:29px ;
+    margin-bottom: 25px;
+}
+.imagem{
+display: flex;
+flex-direction: column;
+}
+.textao .imagem{
+    width: 196px;
+    
+}
+
+.imagem p{
+    color: #C3170C;
+    margin-top: 11px;
+    margin-bottom:6px;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: "Encode Sans",sans-serif;
+}
+.imagem h2{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Encode Sans",sans-serif;
+    color:  #2F3134;
+}
+.noticiag1{
+    display: flex;
+    justify-content: space-between;
+}
+.imagem h1{
+    font-weight: 700;
+    font-size: 20px;
+    font-family: "Encode Sans",sans-serif;
+    color: #2F3134;
+    line-height: 25px;
+}
+.oresto{
+    display: flex;
+    justify-content: space-between;
+}
+.oresto .imagem{
+    width: 204px;
+
+}
+
+.linha{
+    background-color:  #EBEDEF;
+    height: 1px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.linhax{
+    background-color:  #F5F6F7;
+    width: 1250px;
+    height: 1px;
+}
+.linhahor{
+    background-color:  #EBEDEF;
+    width: 1px;
+    height: 850px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.outrasnoticias img{
+    height: 128px;
+    width: 240px;
+    border-radius: 12px;
+}
+.outrasnoticias{
+    display: flex;
+}
+.ge p{
+    color:  #07AA47;
+}
+.gshow{
+    color: #EC7D00;
+}
+
+
+.menu .g1{
+    color: #C3170C;
+}
+.menu .oglobo{
+    color: #1E4B9B;
+
+}
+.menu .valor{
+    color: #006766;
+}
+.menu .ge {
+    color:  #07AA47;
+}
+.menu .cartola{
+    color:#E3662B;
+
+}
+.menu .globoplay{
+    color: #FB0735;
+}
+a.menu .dropz{
+    color: #FF75BB;
+}
+.menu .gshow{
+    color: #EC7D00;
+}
+a.menu .quem{
+    color: #323333;
+}
+.menu .receitas{
+    color: #A81D83;
+}
